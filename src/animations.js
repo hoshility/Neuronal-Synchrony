@@ -45,11 +45,11 @@ window.animations = (function() {
     },
     {
       // Grey - H
-      background: { r: 181, g: 181, b: 181 },
-      middleground: { r: 141, g: 164, b: 170 },
-      foreground: { r: 227, g: 79, b: 12 },
-      highlight: { r: 163, g: 141, b: 116 },
-      accent: { r: 255, g: 197, b: 215 },
+      background: { r: 217, g: 82, b: 31 },
+      middleground: { r: 143, g: 74, b: 45 },
+      foreground: { r: 255, g: 108, b: 87 },
+      highlight: { r: 255, g: 126, b: 138 },
+      accent: { r: 227, g: 190, b: 141 },
       white: { r: 255, g: 255, b: 255 },
       black: { r: 0, g: 0, b: 0 },
       isDark: false
