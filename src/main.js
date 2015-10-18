@@ -10,7 +10,7 @@ $(function() {
    * Append Sound Generation to Animations
    */
 
-  var letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+  var letters = ['G', 'H', 'A', 'B', 'C', 'D', 'E', 'F'];
   var path = '/assets/', filetype = '.mp3';
   var asset_count = 0, $loaded = $('#loaded');
 
