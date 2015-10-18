@@ -33,6 +33,28 @@ window.animations = (function() {
   var PROPERTIES = ['background', 'middleground', 'foreground', 'highlight', 'accent', 'white', 'black'];
   var PALETTE = [
     {
+      // Grey - G
+      background: { r: 181, g: 181, b: 181 },
+      middleground: { r: 141, g: 164, b: 170 },
+      foreground: { r: 227, g: 79, b: 12 },
+      highlight: { r: 163, g: 141, b: 116 },
+      accent: { r: 255, g: 197, b: 215 },
+      white: { r: 255, g: 255, b: 255 },
+      black: { r: 0, g: 0, b: 0 },
+      isDark: false
+    },
+    {
+      // Grey - H
+      background: { r: 181, g: 181, b: 181 },
+      middleground: { r: 141, g: 164, b: 170 },
+      foreground: { r: 227, g: 79, b: 12 },
+      highlight: { r: 163, g: 141, b: 116 },
+      accent: { r: 255, g: 197, b: 215 },
+      white: { r: 255, g: 255, b: 255 },
+      black: { r: 0, g: 0, b: 0 },
+      isDark: false
+    },
+    {
       // Grey
       background: { r: 181, g: 181, b: 181 },
       middleground: { r: 141, g: 164, b: 170 },
